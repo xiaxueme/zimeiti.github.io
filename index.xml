@@ -12,15 +12,16 @@
     
     
     <item>
-      <title>博客</title>
+      <title>爆款案例001 名人名言</title>
       <link>https://zimeiti.fun/post/my-first-post/</link>
       <pubDate>Fri, 27 Oct 2023 09:49:43 +0800</pubDate>
       
       <guid>https://zimeiti.fun/post/my-first-post/</guid>
       
-        <description>&lt;p&gt;#这是我的第一篇博客&lt;/p&gt;
+        <description>&lt;h1 id=&#34;这是我的第一篇博客&#34;&gt;这是我的第一篇博客&lt;/h1&gt;
 &lt;p&gt;这是我的第一篇&lt;strong&gt;博客&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.baidu.com&#34;&gt;个人网站链接&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://zimeiti.fun/img/anli1.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
 </description>
       
     </item>
