@@ -16,13 +16,6 @@
   </url>
   
   <url>
-    <loc>https://zimeiti.fun/</loc>
-    <lastmod>2023-10-27T09:49:43+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://zimeiti.fun/post/</loc>
     <lastmod>2023-10-27T09:49:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -31,6 +24,13 @@
   
   <url>
     <loc>https://zimeiti.fun/post/my-first-post/</loc>
+    <lastmod>2023-10-27T09:49:43+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://zimeiti.fun/</loc>
     <lastmod>2023-10-27T09:49:43+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

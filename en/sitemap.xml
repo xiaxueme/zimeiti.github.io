@@ -8,13 +8,13 @@
   </url>
   
   <url>
-    <loc>https://zimeiti.fun/en/</loc>
+    <loc>https://zimeiti.fun/en/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://zimeiti.fun/en/tags/</loc>
+    <loc>https://zimeiti.fun/en/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
